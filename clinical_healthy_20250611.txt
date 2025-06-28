@@ -1,0 +1,45 @@
+Name	Clinical_Healthy_final	Year_collected
+B_the_22911	Clinical	1997 to 2004
+B_fae_22953	Clinical	1997 to 2004
+B_fae_23150	Clinical	1997 to 2004
+B_the_23156	Clinical	1997 to 2004
+B_cac_23205	Clinical	1997 to 2004
+B_fra_23212	Clinical	1997 to 2004
+B_the_23213	Clinical	1997 to 2004
+B_fae_23218	Clinical	1997 to 2004
+B_the_23269	Clinical	1997 to 2004
+B_the_23596	Clinical	1997 to 2004
+B_ova_23621	Clinical	1997 to 2004
+P_vul_23673	Clinical	1997 to 2004
+B_the_23677	Clinical	1997 to 2004
+B_fae_23680	Clinical	1997 to 2004
+B_fae_23681	Clinical	1997 to 2004
+B_fae_23688	Clinical	1997 to 2004
+P_vul_23693	Clinical	1997 to 2004
+B_fae_23730	Clinical	1997 to 2004
+B_ova_23748	Clinical	1997 to 2004
+B_fae_BT8736	Clinical	Pre 1980s
+B_the_DH4087	Clinical	1980-2000
+B_ova_DH4108	Clinical	1980-2000
+B_fae_WH510	Other	
+P_dis_WAL8975	Clinical	1980-2000
+P_dis_WAL9063	Clinical	1980-2000
+B_cel_WH002	Community	1996–1997
+P_vul_WH008	Community	1996–1997
+P_vul_WH009ab	Community	1996–1997
+P_vul_WH014	Community	1996–1997
+P_vul_WH018	Community	1996–1997
+B_fae_WH021	Community	1996–1997
+P_dor_WH106	Community	1996–1997
+P_vul_WH108	Community	1996–1997
+P_dor_WH111	Community	1996–1997
+P_vul_WH202	Community	1996–1997
+B_ova_WH208	Community	1996–1997
+B_xyl_WH213	Community	1996–1997
+B_xyl_WH404	Community	1996–1997
+P_dor_WH512	Community	1996–1997
+B_ova_WH514	Community	1996–1997
+P_dor_WH607	Community	1996–1997
+B_ova_WH711	Community	1996–1997
+B_ova_WH713	Other	1996–1997
+P_vul_WH715	Community	1996–1997

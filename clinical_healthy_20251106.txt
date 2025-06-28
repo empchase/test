@@ -1,0 +1,70 @@
+Name	Clinical_Healthy_final	Year_collected
+B_the_22911	Clinical	1997 to 2004
+B_fae_22953	Clinical	1997 to 2004
+B_fae_23150	Clinical	1997 to 2004
+B_the_23156	Clinical	1997 to 2004
+B_cac_23205	Clinical	1997 to 2004
+B_fra_23212	Clinical	1997 to 2004
+B_the_23213	Clinical	1997 to 2004
+B_fae_23218	Clinical	1997 to 2004
+B_the_23269	Clinical	1997 to 2004
+B_the_23596	Clinical	1997 to 2004
+B_ova_23621	Clinical	1997 to 2004
+P_vul_23673	Clinical	1997 to 2004
+B_the_23677	Clinical	1997 to 2004
+B_fae_23680	Clinical	1997 to 2004
+B_fae_23681	Clinical	1997 to 2004
+B_fae_23688	Clinical	1997 to 2004
+P_vul_23693	Clinical	1997 to 2004
+B_fae_23730	Clinical	1997 to 2004
+B_ova_23748	Clinical	1997 to 2004
+B_fae_BT8736	Clinical	Pre 1980s
+B_the_DH4087	Clinical	1980-2000
+B_ova_DH4108	Clinical	1980-2000
+B_sp_DH4140	Clinical	1980-2000
+B_the_TS130APG11	Community	2000s
+B_the_TS6APG11	Community	2000s
+B_the_VPI_11984	Other	Pre 1980s
+P_dor_VPI_2277	Community	Pre 1980s
+P_dor_VPI_3776A	Community	Pre 1970s
+P_vul_VPI_4025	Other	Pre 1980s
+B_ova_VPI_4104	Other	Pre 1980s
+P_dis_VPI_4243	Community	Pre 1980s
+P_dis_VPI_B1_20	Community	1970s
+B_ova_VPI_B4_11	Community	1970s
+B_ova_VPI_C1_45	Community	1970s
+P_dis_VPI_C14_2	Community	1970s
+B_fae_WH510	Other	
+P_dis_VPI_T3_25	Community	1970s
+P_dis_WAL8975	Clinical	1980-2000
+P_dis_WAL9063	Clinical	1980-2000
+B_cel_WH002	Community	1996–1997
+P_vul_WH008	Community	1996–1997
+P_vul_WH009ab	Community	1996–1997
+P_vul_WH014	Community	1996–1997
+P_vul_WH018	Community	1996–1997
+B_fae_WH021	Community	1996–1997
+P_dor_WH106	Community	1996–1997
+P_vul_WH108	Community	1996–1997
+P_dor_WH111	Community	1996–1997
+P_vul_WH202	Community	1996–1997
+B_ova_WH208	Community	1996–1997
+B_xyl_WH213	Community	1996–1997
+B_xyl_WH404	Community	1996–1997
+P_dor_WH512	Community	1996–1997
+B_ova_WH514	Community	1996–1997
+P_dor_WH607	Community	1996–1997
+B_ova_WH711	Community	1996–1997
+B_ova_WH713	Other	1996–1997
+P_vul_WH715	Community	1996–1997
+B_caccae_ATCC_43185		
+P_vulgatus_ATCC_8482		
+B_ovatus_ATCC_8483		
+B_salyersiae_DSM_18765		
+B_theta_VPI_5482		
+B_xylanisolvens_H207		
+B_cellulosilyticus_WH2		
+P_distasonis_ATCC_8503		
+B_faecis_MAJ27		
+P_dorei_CL03T12C01		
+B_fragilis_NCTC_9343_ATCC_25285		
